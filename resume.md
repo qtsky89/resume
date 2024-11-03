@@ -70,7 +70,7 @@ header:
 
 ## Personal project
 - **Portfolio**
-  - **Situation**: As a fullstack engineer, I aimed to build a portfolio site from scratch to showcase my skills.
+  - **Situation**: As a fullstack engineer, I wanted to showcase my work and deepen my understanding of AWS services.
   - **Task**: Develop and deploy a portfolio site using AWS services.
   - **Action**: Learned and utilized various AWS components to develop and launch the site.
   - **Result**: Successfully doubled my interview opportunities after launching the site.
@@ -79,9 +79,9 @@ header:
   - **Link**: [https://portfolio.wonhee.net/personal/portfolio](https://portfolio.wonhee.net/personal/portfolio)
 
 - **Techblog**
-  - **Situation**: Aimed to share my technical knowledge and insights to benefit the developer community and establish my personal brand.
+  - **Situation**: Have learned so much throughout my carrer, but I find myself forgetting things over time.
   - **Task**: Create and maintain a tech blog.
-  - **Action**: Developed and designed the blog using Jekyll Chirpy template. I published well-researched articles on topics such as algorithms, design patterns, platform comparisons.
+  - **Action**: Developed and designed the blog using Jekyll Chirpy template. I published articles on topics such as algorithms, design patterns, platform comparisons.
   - **Result**: Strengthened personal brand, leading to increased visibility and credibility within the developer community.
   - **Tech Stack**: Jekyll, Markdown, Chirpy Template
   - **Duration**: 2 weeks (ongoing)
