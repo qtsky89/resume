@@ -30,7 +30,8 @@ header:
   - **Action**: As a fullstack engineer, I developed key features, including service creation, service listing, Helm chart management, node and server configuration, manager and load balancer settings, and set up the CI/CD pipeline.
   - **Result**: Launched v1.0.0 in October 2023, followed by ongoing feature enhancements based on user feedback. Currently, hundreds of services are running in production mode, with more Naver search services scheduled for migration soon. The platform has saved developers approximately 50% of their time by eliminating manual tasks like pysical server requests and setting up logging and monitoring systems.
   - **Tech Stack**: Kubernetes, Helmchart, Gin(Golang), Vue.js(Typescript), GraphQL, MariaDB, Quasar, ArgoCD. Github action, Cypress.
-  - **Duration**: 3 years (ongoing)
+  - **Duration**: 2017.04 ~ present
+  - **Member**: 15
   - **Link**: [https://portfolio.wonhee.net/company/clous](https://portfolio.wonhee.net/company/clous)
 
 - **Developed Search CI/CD Builder platform (CitruS)**
@@ -39,7 +40,8 @@ header:
   - **Action**: Developed a setup wizard that includes Docker image configuration, Jenkins setup, and SonarQube integration.
   - **Result**: Enabled Naver search developers to create their own CI/CD pipelines within minutes, significantly saving each developer's time. Additionally, server maintenance costs were reduced by using centralized Jenkins and SonarQube.
   - **Tech Stack**: Gin(Golang), Vue.js(Typescript), Django(Python), MariaDB, Bootstrap, Wetty, Jenkins, Sonarqube, Kubernetes
-  - **Duration**: 1 year
+  - **Duration**: 2018.11 ~ 2024.01
+  - **Member**: 4
   - **Link**: [https://portfolio.wonhee.net/company/citrus](https://portfolio.wonhee.net/company/citrus)
 
 - **Developed Search Golang Library (GoSAS)**
@@ -48,7 +50,8 @@ header:
   - **Action**: Wrapped key components, including the term extractor, synonym finder, and ebool parser, and adapted automatic machine language types to Golang slice and map structures. Set up a CI/CD pipeline and continue maintaining the library as new search engine features are released.
   - **Result**: Achieved no significant performance drop when transitioning from C++ to Golang, allowing developers to create search logic twice as fast. Presented these results at Naver's Engineering Day workshop.
   - **Tech Stack**: Swig, Golang, C++
-  - **Duration**: 1 year
+  - **Duration**: 2020.01.28 ~ present
+  - **Member**: 4
   - **Link**: [https://portfolio.wonhee.net/company/gosas](https://portfolio.wonhee.net/company/gosas)
 
 - **Developed and Operated Post, Mail, Dictionary, App, Intellectual, Nboard, Naverme Search**
@@ -57,7 +60,8 @@ header:
   - **Action**: Since joining the company, I’ve been responsible for developing and maintaining the Naver search services. I implemented unit and end-to-end tests for every pull request, kept the code library up to date, and established a robust alert and monitoring system to address issues promptly.
   - **Result**: Consistently meet deadlines with no major service failures.
   - **Tech Stack**: Golang, C++, Apache module programming.
-  - **Duration**: 8 years (ongoing)
+  - **Duration**: 2015.12 ~ present
+  - **Member**: 1
   - **Link**: [https://portfolio.wonhee.net/company/devops](https://portfolio.wonhee.net/company/devops)
 
 **SSD Software Engineer Intern**
@@ -75,7 +79,8 @@ header:
   - **Action**: Learned and utilized various AWS components to develop and launch the site.
   - **Result**: Successfully doubled my interview opportunities after launching the site.
   - **Tech Stack**: Django(Python), Vue.js(Typescript), MariaDB, AWS (Lightsail for containers, S3 for storage, Route 53 for domain management), Bootstrap, CoreUI template
-  - **Duration**: 2 months (ongoing)
+  - **Duration**: 2020.12 ~ present
+  - **Member**: 1
   - **Link**: [https://portfolio.wonhee.net/personal/portfolio](https://portfolio.wonhee.net/personal/portfolio)
 
 - **Techblog**
@@ -84,7 +89,8 @@ header:
   - **Action**: Developed and designed the blog using Jekyll Chirpy template. I published articles on topics such as algorithms, design patterns, platform comparisons.
   - **Result**: Strengthened personal brand, leading to increased visibility and credibility within the developer community.
   - **Tech Stack**: Jekyll, Markdown, Chirpy Template
-  - **Duration**: 2 weeks (ongoing)
+  - **Duration**: 2024.10 ~ present
+  - **Member**: 1
   - **Link**: [https://techblog.wonhee.net](https://techblog.wonhee.net)
 ## Skills
 
