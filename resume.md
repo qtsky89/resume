@@ -84,7 +84,7 @@ header:
   - **Link**: [https://portfolio.wonhee.net/personal/portfolio](https://portfolio.wonhee.net/personal/portfolio)
 
 - **Techblog**
-  - **Situation**: Have learned so much throughout my carrer, but I find myself forgetting things over time.
+  - **Situation**: Have learned so much throughout my career, but I find myself forgetting things over time.
   - **Task**: Create and maintain a tech blog.
   - **Action**: Developed and designed the blog using Jekyll Chirpy template. I published articles on topics such as algorithms, design patterns, platform comparisons.
   - **Result**: Strengthened personal brand, leading to increased visibility and credibility within the developer community.
