@@ -110,7 +110,7 @@ header:
 ## Certificate
 
 - **Information Processing Engineer**
-  ~ **2014.03 ~ Present**
+  ~ **2014.05 ~ Present**
   - Human Resource Development Service of Korea
 
 - **Computer Specialist in Spreadsheet & Database Level 2**
